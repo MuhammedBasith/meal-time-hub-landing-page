@@ -40,9 +40,7 @@ yarn install
 To view the landing page locally, run:
 
 ```bash
-npm start
-# or
-yarn start
+npm run dev
 ```
 
 This will start the development server and open the app in your browser.
